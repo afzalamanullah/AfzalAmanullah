@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afzalamanullah
+- 👋 Hi, I’m @AfzalAmanullah
 - 👀 I’m interested in golang coding and AWS
 - 🌱 I’m currently learning LINUX
 - 💞️ I’m looking to collaborate on ...
